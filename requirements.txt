@@ -1,0 +1,9 @@
+# Network Port Scanner Dependencies
+# Install with: pip install -r requirements.txt
+
+# ICMP ping for host discovery (requires root/admin on some systems)
+pythonping>=1.1.4
+
+# Rich CLI formatting with colors, tables, and progress bars
+rich>=13.7.0
+
